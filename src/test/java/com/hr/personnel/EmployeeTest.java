@@ -30,6 +30,6 @@ class EmployeeTest {
     String work = employee.work();
 
 //    Assertions.assertEquals("Hobak worked", work);
-    assertThat(work).isEqualTo("Hobak worked");
+    assertThat(work).isEqualTo("Hobak worked"); test
   }
 }
